@@ -1,0 +1,6 @@
+aiogram
+aiohttp
+aiosmtplib
+aiosqlite
+aiocryptopay
+aaio
